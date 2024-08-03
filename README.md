@@ -58,7 +58,7 @@ Recommendations:
 3. SRS-DCS and DATIS
 4. Recommend converting .miz with https://www.digitalcombatsimulator.com/en/files/3322208/ if you do not have the required Mods.
 
-MOOSE RAT, Bombing and Insurgent target spawning scripts are available. MOOSE ATIS, ATO, JTAC Sound files for Afghanistan still pending development.
+Insurgent persistent spawning,. Random Air Traffic, ATIS, JTAC and CSAR enabled.
 
 Tips:
 1. Enter all your waypoints and IP geolocations before take off.
