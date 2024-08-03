@@ -48,7 +48,8 @@ Line 8: Friendlies Marking 270 for 1m
 Line 9: Egress POP 115
 RMKS Confirmed SAM/AA Threat
 
-KC-130 TEXACO 1-1 TEX TCN: 100Y 251.000
+TEXACO 1-1 KC-130 TACAN 100Y TEX 254.000
+ARCO 1-1 KC135 TACAN 80Y ARC 336.300
 
 Credits: Thank you to jls1980 for permission to use Nowzad and Nad Ali static templates. DaleRFU for NATO installation locations.
 
